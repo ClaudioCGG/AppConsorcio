@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  }
+
+  section {
+    /* border: 1px solid; */
+  }
+
+  section p {
+    /* border: 1px solid; */
+    width: 400px;
+    background-color: #9FC8D9;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+  }
